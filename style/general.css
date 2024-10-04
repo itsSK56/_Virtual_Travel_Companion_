@@ -6,7 +6,7 @@ body {
     margin-top: 0;
     width: 100%;
     min-height: 100vh;
-    background-image: linear-gradient(rgba(255, 167, 3, 0.5), rgba(11, 29, 86, 0.5)), url(../picture/back2.jpg);
+    background-image: linear-gradient(rgba(252, 231, 114, 0.5), rgba(11, 29, 86, 0.5)), url(../picture/back2.jpg);
     background-size: cover;
     background-position: bottom;
     background-repeat: no-repeat;
